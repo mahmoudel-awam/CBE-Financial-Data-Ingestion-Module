@@ -72,11 +72,6 @@ Fact Table: `Fact_Transactions`
 | Amount_EGP       | Converted amount            |
 | Transaction_Date | Date of transaction         |
 
----
-
-Data Model
-
-![Data Warehouse](docs/architecture.png)
 
 ---
 
@@ -143,6 +138,8 @@ Future Enhancements
 * Real-time streaming using **Apache Kafka**
 * Build ML model for fraud detection
 * Create dashboard using **Power BI / Tableau**
+## 📊 Database Architecture
+![Database Schema](dD:\FinGuard_Project\scraping\images)
 
 ---
 
