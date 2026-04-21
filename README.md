@@ -94,22 +94,6 @@ This pipeline supports fraud detection by:
 
 ---
 
-Project Structure
-
-```
-fraud-detection-data-pipeline/
-│
-├── data/                  # Sample data files
-├── scripts/               # Python scraping script
-├── sql/                   # Data warehouse SQL scripts
-├── docs/                  # Architecture diagrams
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
 How to Run
 
 ### 1. Clone the repository
