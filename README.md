@@ -79,6 +79,9 @@ Database Architecture
 ![Database Schema](images/db_schema.png)
 
 Sample Scraped Data
+
+
+
 ![Sample CSV Output](images/sample_output.png)
 
 ---
